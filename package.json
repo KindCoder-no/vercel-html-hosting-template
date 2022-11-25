@@ -1,0 +1,25 @@
+{
+  "name": "vercel-html-hosting-template",
+  "version": "1.0.0",
+  "description": "This is a repository template to host static html/css webpages on https://vercel.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KindCoder-no/vercel-html-hosting-template.git"
+  },
+  "keywords": [
+    "Vercel"
+  ],
+  "author": "Emre Sanden (KindCoder-no)",
+  "license": "Abstyles",
+  "bugs": {
+    "url": "https://github.com/KindCoder-no/vercel-html-hosting-template/issues"
+  },
+  "homepage": "https://github.com/KindCoder-no/vercel-html-hosting-template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
